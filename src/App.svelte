@@ -41,7 +41,7 @@
   /* 
   Zero - Specificity
   --
-  0 - inlinethis doesn't feel as good as the custom keybaord buyt...
+  0 - inline
   0 - id
   0 - classes
   0 - elements
