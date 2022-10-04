@@ -45,6 +45,8 @@
   0 - id
   0 - classes
   0 - elements
+  
+  RIICE - Reminder, Inline, ID's, Classes, Elements
    */
 
   /* 0,1,0,0 */
